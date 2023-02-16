@@ -29,3 +29,4 @@
 <a href="https://www.twitch.tv/gazzaneo" target="blank"><img src= https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white
 </div>
 
+![snake gif](https://github.com/gazzaneoooo/gazzaneoooo/blob/output/github-contribution-grid-snake.svg)
