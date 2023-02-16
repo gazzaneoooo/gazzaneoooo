@@ -28,9 +28,3 @@
 <a href="https://www.twitch.tv/gazzaneo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vicente-gazzaneo-neto-50379422b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/gazzaneoooo/gazzaneoooo/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
