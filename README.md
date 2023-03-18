@@ -19,7 +19,7 @@
 <div style="display: inline_block"><br>
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css"> 
+<img align="center" height="30" width="40" src="https://cdn.discordapp.com/attachments/1082327831360581682/1082328752987590697/images.png" />
 </div>
 
 ##
