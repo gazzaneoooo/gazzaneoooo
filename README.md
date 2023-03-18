@@ -1,6 +1,6 @@
 🔭 Estou estudando na plataforma da Alura
 
-🌱 Atualmente estou praticando HTML e CSS
+🌱 Atualmente estou estudando JavaScript
 
 <picture>
 <source 
