@@ -1,4 +1,4 @@
-🔭 Estou estudando na plataforma da Alura
+🔭 Sou estudante na plataforma da Alura
 
 🌱 Atualmente estou estudando JavaScript
 
